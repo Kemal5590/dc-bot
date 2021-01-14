@@ -1,0 +1,14 @@
+{
+  "name": "denemebot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "deneme.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "Kemal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
